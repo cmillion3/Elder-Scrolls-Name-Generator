@@ -1,4 +1,5 @@
-# With the exception of Redgaurds, each race has a finite number of prefixes and suffixes that form a name for each gender.
+# This is a list of prefixes and suffixes for each race, the generator functions will pull a random pair* from the list to form a name.
+# Each race has a finite number of prefixes and suffixes that form a name for each gender.
 # In the case of Redgaurds, they have a vowel and consonant in between and sometimes a suffix(es).
 
 altmpre = ['Core', 'Corri', 'Cyre', 'Gan', 'Kala', 'Kelkemme', 'Lilland', 'Lovi', 'Mith', 'Saru', 'Sau', 'Soli']
