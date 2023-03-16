@@ -1,4 +1,4 @@
-import generator as gen
+import generator as gen # bring over the functions for generating names.
 
 repeat = "y"
 
